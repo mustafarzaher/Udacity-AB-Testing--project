@@ -1,0 +1,2 @@
+1- Pandas.Concat (https://pandas.pydata.org/docs/reference/api/pandas.concat.html)
+2- Pandas.merge (https://www.kite.com/python/answers/how-to-join-two-pandas-dataframe-on-a-common-column-in-python#:~:text=Use%20pd.,to%20return%20a%20merged%20DataFrame%20.)
